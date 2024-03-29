@@ -11,11 +11,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/nagarajupagidi/" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/nagarajupagidi" />][linkedin]
 
  
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://www.linkedin.com/in/nagarajupagidi
 <!--
 **nagaraju-pagidi ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
