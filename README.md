@@ -1,14 +1,19 @@
 <h1>Hi, I'm nagaraju! <br/><a href="https://github.com/Nagaraju-pagidi">Programmer</a>, <a href="https://www.linkedin.com/in/nagarajupagidi/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻Projects:</h2>
-   - [Active Directory home lab with 1000+ users creation by using powershell}(https://github.com/Nagaraju-pagidi/ActiveDirectoryHomeLab).
-   -[ pfSense Firewall Configuration].
+ 
+   - <b>cybersecurity</b>
+     - [Active Directory home lab with 1000+ users creation by using powershell](https://github.com/Nagaraju-pagidi/ActiveDirectoryHomeLab)
+     -[ pfSense Firewall Configuration].
+ 
 
 - <b>Java</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Package-Delivery-Pathfinding-Algorithm)
  
   
 <h2>📜 Certifications</h2>
+- cybersecurity certicate from google.
+- ech certificate from ec-council.
   
 
 
