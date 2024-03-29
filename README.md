@@ -14,7 +14,7 @@
 <h2>📜 Certifications</h2>
 
   - [cybersecurity certicate from google](https://www.linkedin.com/posts/nagarajupagidi_cybersecurity-cirtificate-activity-7168230325830045697-sRvq?utm_source=share&utm_medium=member_desktop)
-  -  - [ech certificate from ec-council](https://www.linkedin.com/posts/nagarajupagidi_eccouncil-ethicalhacking-pentest-activity-7173719365681360897-n7sy?utm_source=share&utm_medium=member_desktop)
+    - [ech certificate from ec-council](https://www.linkedin.com/posts/nagarajupagidi_eccouncil-ethicalhacking-pentest-activity-7173719365681360897-n7sy?utm_source=share&utm_medium=member_desktop)
   
 
 
